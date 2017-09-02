@@ -1,0 +1,28 @@
+Tiempo secuencial con 100
+Tiempo = 0.004574600	 Primera = 200	 Ultima=200
+Tiempo con dos threads con 100
+Tiempo = 0.003335000	 Primera = 200	 Ultima=200
+Tiempo con cuatro threads con 100
+Tiempo = 0.001662000	 Primera = 200	 Ultima=200
+--------------------------------------------------
+Tiempo secuencial con 500
+Tiempo = 0.853643600	 Primera = 1000	 Ultima=1000
+Tiempo con dos threads con 500
+Tiempo = 0.530527000	 Primera = 1000	 Ultima=1000
+Tiempo con cuatro threads con 500
+Tiempo = 0.305063000	 Primera = 1000	 Ultima=1000
+--------------------------------------------------
+Tiempo secuencial con 1000
+Tiempo = 8.240074500	 Primera = 2000	 Ultima=2000
+Tiempo con dos threads con 1000
+Tiempo = 4.747283000	 Primera = 2000	 Ultima=2000
+Tiempo con cuatro threads con 1000
+Tiempo = 2.239729000	 Primera = 2000	 Ultima=2000
+--------------------------------------------------
+Tiempo secuencial con 1500
+Tiempo = 32.169772300	 Primera = 3000	 Ultima=3000
+Tiempo con dos threads con 1500
+Tiempo = 20.554163000	 Primera = 3000	 Ultima=3000
+Tiempo con cuatro threads con 1500
+Tiempo = 11.344185000	 Primera = 3000	 Ultima=3000
+--------------------------------------------------

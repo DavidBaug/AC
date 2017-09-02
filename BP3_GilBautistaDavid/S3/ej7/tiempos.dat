@@ -1,0 +1,30 @@
+static y chunk por defecto
+Tiempo = 0.017247000	 Primera = 61440	 Ultima=15
+static y chunk 2
+Tiempo = 0.013618000	 Primera = 61440	 Ultima=15
+static y chunk 32
+Tiempo = 0.039234000	 Primera = 61440	 Ultima=15
+static y chunk 64
+Tiempo = 0.011421000	 Primera = 61440	 Ultima=15
+static y chunk 1024
+Tiempo = 0.016707000	 Primera = 61440	 Ultima=15
+dynamic y chunk por defecto
+Tiempo = 0.038821000	 Primera = 61440	 Ultima=15
+dynamic y chunk 2
+Tiempo = 0.036232000	 Primera = 61440	 Ultima=15
+dynamic y chunk 32
+Tiempo = 0.030461000	 Primera = 61440	 Ultima=15
+dynamic y chunk 64
+Tiempo = 0.012636000	 Primera = 61440	 Ultima=15
+dynamic y chunk 1024
+Tiempo = 0.050214000	 Primera = 61440	 Ultima=15
+guided y chunk por defecto
+Tiempo = 0.020585000	 Primera = 61440	 Ultima=15
+guided y chunk 2
+Tiempo = 0.017992000	 Primera = 61440	 Ultima=15
+guided y chunk 32
+Tiempo = 0.021583000	 Primera = 61440	 Ultima=15
+guided y chunk 64
+Tiempo = 0.016793000	 Primera = 61440	 Ultima=15
+guided y chunk 1024
+Tiempo = 0.017481000	 Primera = 61440	 Ultima=15

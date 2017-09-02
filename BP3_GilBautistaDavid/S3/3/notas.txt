@@ -1,0 +1,19 @@
+if-clause.c:
+	1) ¿por qué se usa default(none)?... ¿qué se intenta poner de manifiesto?
+
+scheduled-clause.c
+	2) ¿por qué se usa firstprivate y lastprivate?... ¿qué se intenta poner de manifiesto?
+	3) falta #pragma omp atomic antes de suma = suma + a[i]; sino el resultado es aleatorio
+
+scheduleg-clause.c
+	2) ¿por qué se usa firstprivate y lastprivate?... ¿qué se intenta poner de manifiesto?
+	3) falta #pragma omp atomic antes de suma = suma + a[i]; sino el resultado es aleatorio
+
+scheduler-clause.c
+	4) ¿por qué se usa firstprivate y lastprivate?... ¿qué se intenta poner de manifiesto?
+	5) falta #pragma omp atomic antes de suma = suma + a[i]; sino el resultado es aleatorio
+	6) el código fuente, pag. 22, no produce los mismos resultados mostrados en la pág. 23
+
+pi en mpi:
+	7) ¿por qué aparece este ejemplo aquí? ¿qué sentido tiene ejecutarlo en una máuquina SMP en lugar de en un cluster?
+
