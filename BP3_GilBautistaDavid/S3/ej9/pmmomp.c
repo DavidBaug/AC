@@ -35,7 +35,7 @@ int main(int argc, char const *argv[]) {
         c[i] = (int *) malloc(n*sizeof(int));
     }
 
-    // Inicializcion
+    // Inicializacion
     #pragma omp parallel for private(j)
     for (i=0; i<n; i++) {
         for (j=0; j<n; j++) {
